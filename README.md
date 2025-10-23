@@ -7,7 +7,7 @@ Compiler Design
 Language Design
 Type Theory
 Type Systems
-### Languagss, Tools, ETC...
+### Languages, Tools, ETC...
 
 **Operating Systems**
 
