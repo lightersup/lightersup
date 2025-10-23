@@ -1,16 +1,22 @@
-## Hi there 👋
+## 𝛌 lightersup 𝛌
 
-<!--
-**lightersup/lightersup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+Programmer interested in many things...
+𝛌 Calculus
+Compiler Design
+Language Design
+Type Theory
+Type Systems
+### Languagss, Tools, ETC...
 
-Here are some ideas to get you started:
+**Operating Systems**
+![macOS](https://img.shields.io/badge/macOS-11.0+-lightgrey?style=flat-square&logo=apple&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust+-orange?style=flat-square&logo=rust&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-blue?style=flat-square&logo=ocaml&logoColor=white)
+
+**Package Managers**
+![Homebrew](https://img.shields.io/badge/Homebrew-3.6+-lightgrey?style=flat-square&logo=homebrew&logoColor=white)  
+![Nix](https://img.shields.io/badge/Nix-2.14+-cyan?style=flat-square&logo=nixos&logoColor=white)
